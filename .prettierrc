@@ -1,0 +1,40 @@
+{
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "parser": "html",
+        "printWidth": 80,
+        "tabWidth": 2,
+        "useTabs": false,
+        "semi": false,
+        "singleQuote": true,
+        "trailingComma": "es5"
+      }
+    },
+    {
+      "files": "*.js",
+      "options": {
+        "parser": "babel",
+        "printWidth": 80,
+        "tabWidth": 2,
+        "useTabs": false,
+        "semi": true,
+        "singleQuote": true,
+        "trailingComma": "es5"
+      }
+    },
+    {
+      "files": "*.gss",
+      "options": {
+        "parser": "css",
+        "printWidth": 80,
+        "tabWidth": 2,
+        "useTabs": false,
+        "semi": true,
+        "singleQuote": false,
+        "trailingComma": "es5"
+      }
+    }
+  ]
+}

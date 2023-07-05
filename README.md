@@ -1,1 +1,1 @@
-* [курс JS-2023](https://www.youtube.com/watch?v=fcMcf_4PjfI)
+- [курс JS-2023](https://www.youtube.com/watch?v=fcMcf_4PjfI)
